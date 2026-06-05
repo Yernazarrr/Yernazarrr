@@ -33,7 +33,7 @@ class Developer {
 
 | | |
 |:---:|:---:|
-| **📱 [NickForge](https://github.com/Yernazar/NickForge)** <br> *Генератор никнеймов и юзернеймов* <br> ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart) | **🔧 Project 2** <br> *Coming soon...* <br> ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) |
+| **🛸 [Rick and Morty App](https://github.com/Yernazarrr/rick_and_morty_app)** <br> *Персонажи, локации и эпизоды вселенной «Рик и Морти» с поиском и фильтрацией* <br> ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart) | **🧮 [Number Trivia](https://github.com/Yernazarrr/flutter-number-trivia-clean-architecture)** <br> *A Number Trivia app built with Flutter, following Clean Architecture and Test-Driven Development (TDD). The project showcases scalable project structure, separation of concerns, and unit testing best practices.* <br> ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart) |
 | **⚡ Project 3** <br> *Coming soon...* <br> ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart) | **🌟 Project 4** <br> *Coming soon...* <br> ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) |
 
 </div>
@@ -78,7 +78,7 @@ class Developer {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yernazarrr&theme=tokyo-night&hide_border=true)](https://github.com/Yernazar)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yernazarrr&theme=tokyo-night&hide_border=true)](https://github.com/Yernazarrr)
 
 </div>
 
